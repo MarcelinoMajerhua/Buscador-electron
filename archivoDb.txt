@@ -1,0 +1,1 @@
+[{"shortcut":"path","path":"valor"},{"shortcut":"dos","path":"dos"},{"shortcut":"tres","path":"tres"},{"shortcut":"cpel","path":"code /mnt/01D6C84C3FF07040/proyecto/electronjs-links"},{"shortcut":"cuatro","path":"cuatro"},{"shortcut":"cinco","path":"cinco"},{"shortcut":"ceis","path":"ceis"},{"shortcut":"ultimo","path":"ultimo"}]
